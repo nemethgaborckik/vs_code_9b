@@ -4,3 +4,4 @@ fekete
 zöld
 citromsárga
 narancssárga
+fehér
